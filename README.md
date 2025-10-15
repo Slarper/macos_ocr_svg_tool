@@ -38,8 +38,7 @@ conda -h
 conda env create -f environment.yml
 
 # 激活新创建的环境
-# (假设 environment.yml 文件中 name: macos-ocr)
-conda activate macos-ocr
+conda activate mac_ocr
 ```
 
 ### 3.运行工具
